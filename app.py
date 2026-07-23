@@ -4,7 +4,7 @@ from flask import Flask
 It creates an instance of flask class, which will be your WSGI (web server gateway interface) application.
 '''
 
-# initialize flask WSGI app
+# Initialize flask WSGI app
 app=Flask(__name__)
 
 @app.route("/")
