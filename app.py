@@ -1,6 +1,5 @@
 from flask import Flask
 
-
 '''
 It creates an instance of flask class, which will be your WSGI (web server gateway interface) application.
 '''
